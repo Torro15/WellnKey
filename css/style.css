@@ -1309,6 +1309,10 @@ button {
         width: 82px;
     }
 
+    .about__box-center {
+        height: 375px;
+    }
+
 }
 
 ul#slide-out:not(.browser-default) {
