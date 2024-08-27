@@ -791,7 +791,7 @@ button {
     margin-bottom: 21px;
 }
 
-.footer__menu-item>li>a{
+.footer__menu-item>li>a {
     color: #7B809A;
 }
 
@@ -1224,7 +1224,7 @@ button {
         gap: 0;
     }
 
-    .about__box-left{
+    .about__box-left {
         width: 100%;
     }
 
@@ -1314,6 +1314,7 @@ button {
     }
 
 }
+
 
 ul#slide-out:not(.browser-default) {
     padding-left: 0;
