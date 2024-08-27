@@ -1078,7 +1078,8 @@ button {
     }
 
     .form__input input {
-        width: 563px;
+        width: 100%;
+        margin-right: 0;
     }
 
     .footer__menu-item>li:first-child {
@@ -1253,7 +1254,7 @@ button {
     .recommend__box-item {
         margin: 0 auto;
     }
-
+    
     .footer__menu {
         flex-wrap: wrap;
     }
@@ -1298,6 +1299,8 @@ button {
         flex-wrap: wrap;
         justify-content: center;
     }
+
+    
 }
 
 @media screen and (max-width:375px) {
