@@ -1254,7 +1254,7 @@ button {
     .recommend__box-item {
         margin: 0 auto;
     }
-    
+
     .footer__menu {
         flex-wrap: wrap;
     }
@@ -1300,7 +1300,7 @@ button {
         justify-content: center;
     }
 
-    
+
 }
 
 @media screen and (max-width:375px) {
@@ -1319,6 +1319,29 @@ button {
     .about__box-center {
         height: 375px;
     }
+
+}
+
+@media screen and (max-width:360px) {
+
+    .about__box-right-btns {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .info {
+        padding-top: 230px;
+    }
+
+    .info__buttons {
+        flex-wrap: wrap;
+    }
+
+    .footer__social {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
 
 }
 
